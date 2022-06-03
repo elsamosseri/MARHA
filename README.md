@@ -3,7 +3,7 @@ Explore the occupation of an anchorage area for divers and recreational users
 
 If you mention this model in a publication, we ask that you include the citation below:
 Mosseri, E. (2022). Explore the occupation of an anchorage area for divers and recreational users. https://github.com/elsamosseri/MARHA. 
-Centre international de recherche sur l’environnement et le développement (CIRED) / Société de Mathématiques Appliquées et de Sciences Humaines (SMASH).
+Centre international de recherche sur l’environnement et le développement (CIRED) / Société de mathématiques appliquées et de sciences humaines (SMASH).
 
 This code is associated with a research report:
 Mosseri, E., Boemare, C., & Levrel, H. (2022). Rapport intermédiaire sur l’évaluation des impacts des actions du projet Life Marha sur les activités et les usagers. Projet intégré LIFE 16 IPE/FR001 Marha.
