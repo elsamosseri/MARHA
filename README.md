@@ -24,9 +24,9 @@ https://ofb.gouv.fr/
 Copyright or © or Copr. CNRS 2022. 
 Main Contributor (2022) : Elsa Mosseri / mosseri[at]centre-cired.fr
 
-This software is a computer program whose purpose is to explore the 
-distribution of biomass between each group of marine ecosystems under 
-climate, fishing and management constraints.
+This software is a computer program whose purpose is to explore 
+the occupation of a multi-sector anchorage area for divers and recreational users 
+under different patterns of the area and different scenarios of attendance of the site.
 
 This software is governed by the CeCILL-B license under French law and
 abiding by the rules of distribution of free software.  You can  use, 
