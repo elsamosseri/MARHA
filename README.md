@@ -22,7 +22,7 @@ https://ofb.gouv.fr/
 
 
 Copyright or © or Copr. CNRS 2022. 
-Main Contributor (2022) : Elsa Mosseri / mosseri[at]centre-cired.fr
+Main Contributor (2022) : Elsa Mosseri / elsamosseri[at]@protonmail.com
 
 This software is a computer program whose purpose is to explore 
 the occupation of a multi-sector anchorage area for divers and recreational users 
